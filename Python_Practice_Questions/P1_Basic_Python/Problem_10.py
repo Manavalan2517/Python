@@ -1,6 +1,6 @@
 
 # Problem_10 :-
-# Area Of Circle Java Program
+# Area Of Circle Python Program
 
 
 radius = float(input("Enter the radius of the circle: "))
